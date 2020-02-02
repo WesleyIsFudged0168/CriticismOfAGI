@@ -163,11 +163,11 @@ organization. We are aware of no significant cases of
 regression in small-scale technology. But organization dependent
 technology DOES regress when the social organization
 on which it depends breaks down. Example:
-When the Roman Empire fell apart the Romans’ smallscale
+When the Roman Empire fell apart the RomansÂ’ smallscale
 technology survived because any clever village
 craftsman could build, for instance, a water wheel, any
 skilled smith could make steel by Roman methods, and so
-forth. But the Romans’ organization- dependent technology
+forth. But the RomansÂ’ organization- dependent technology
 DID regress. Their aqueducts fell into disrepair and
 were never rebuilt. Their techniques of road construction
 were lost. The Roman system of urban sanitation was forgotten,
@@ -204,11 +204,11 @@ A long process of economic development and progress in
 social organization is required. And, even in the absence
 of an ideology opposed to technology, there is no reason
 to believe that anyone would be interested in rebuilding
-industrial society. The enthusiasm for “progress” is a phenomenon
+industrial society. The enthusiasm for Â“progressÂ” is a phenomenon
 peculiar to the modern form of society, and it
 seems not to have existed prior to the 17th century or thereabouts.
 211. In the late Middle Ages there were four main civilizations
-that were about equally “advanced”: Europe,
+that were about equally Â“advancedÂ”: Europe,
 the Islamic world, India, and the Far East (China, Japan,
 Korea). Three of those civilizations remained more or less
 stable, and only Europe became dynamic. No one knows
@@ -224,7 +224,6 @@ This is the only way that these technologies would not compete against nature, b
 
 Some aspects of these very ideas or pipedream chasings would be worse than communism or globalized state socialism or global central corporatism
 
-T3CHN01200
 Assuming Moore's observation will hold, of which there have been times of discrepancy for this observation (2011-2017), Elon Musk is right, it would take at least 30 years to hit the singularity
 (based on how fast it took for a current supercomputer to simulate a heart now compared to realtime, as of 2020). This speed increase is largely going to be due to adding more cores and since it
 is going to be due to adding more cores, we will have to worry about Ahmdahl's law (this time, not an observation). With regards to neural networks, the parallelism would then be a function as
