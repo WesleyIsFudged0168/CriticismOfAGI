@@ -127,6 +127,9 @@ https://www.reddit.com/r/singularity/comments/ag9amw/what_are_the_current_issues
 
 https://www.reddit.com/r/singularity/comments/agnv3u/ray_kurzweil_core_2019_predictions/
 
+We to make the market come back fully and decentralize and decorporatize the economy so we can put potential answers to the development of AGI to better and more widespread use.
+
+To gradually do that, these steps need to be taken:
 
 Shrinking the state to reverse the programming, make people wake up from their programmed lazinesses, and let people with actual mental issues get seen about and not be used to justify fucked up snowflake policies.
 
@@ -134,17 +137,15 @@ Advocate Private, charter, charity, and religious schools needed to compete with
 
 Make corporations and the state lower the pay wall costs for scientific research online, make donation drives, and with full verified accounts only have to buy the papers once in their lifetimes.
 
-Remove the corporation entity system to make companies use liability levying by contractual law and it need to be shown with logical reasoning and hard proof.
+Either weaken the corporation system's hold in the government and its power within the government or remove the corporation entity system to make companies use liability levying by contractual laws and it need to be shown with logical reasoning and hard proof, once we have either of these done, we can make them responsible more easily and help defund certain research efforts when they try to design and create things that can easily be an existential threat to us.
 
-They need to lower the pay wall costs for scientific research online
+We need to lower the pay wall costs for scientific research online or remove paywalls so more people can have access since the only intellectual protections should be either be limited disclosure agreements, contractual laws, non-disclosure agreements, and trade secrets, these together would work better, unless you want full disclosure of scientific research and public control of projects.
 
-They need to decentralize the infrastructures to the most used and most important multi-stage production techs we used today such as refrigerators, computers, automation, phones, UVB light bulbs, LED lights, and the electrical grid, then make the THEN decentralized multi-stage production tech down to a heavily dispersed small and medium scale levels so the production can be to the people and actually supplement human labor properly like it's supposed to, that's a start.
+We need to decentralize the infrastructures to the most used and most important multi-stage production tech, services, and goods we use today including computers, automation, various machinery, various lights, and the electrical grid, then the production can be to the people and actually supplement human labor properly like it's supposed to, that's a start.
 
-It's the same core issues with biofuel making, it's all centralized to a small area where there's THOUSANDS of places where so many feedstocks can can be used and are all trucked far and wide to these few places hence why so much petroleum is put into it, plus it also keeps limits on who can go into the making of the stuff and hurts the working people when it comes to jobs.
+Once we have the market more in our hands once again, we need to buckle down on publically educating engineers and students of this and possible answers to tackle this directly.
 
-Same thing needs to be done with automotive production, tractor computer software designs for agriculture(which should only be used to SUPPLEMENT permaculture), tugboat building, modern industrialized and partially automated metallurgy, ship building, plane building, turbing building, and generator head making, everything else doesn't matter as much, I'm only listing the most used things here, since people value them the most and as such use them the most.
-
-It's the same inefficiency pattern that most of that bad efficiency mess is done on purpose!
+While we disagree with Ted Kaczynski due to beeing the Unabomber messy, uncouth, unethical, domestic terrorist who's harmed innocent lives, these words he said that are just below are still very truthful in many ways.
 
 Ted Kaczynski recognized there are two kinds of technology:
 
@@ -218,12 +219,12 @@ it is clear that rapid development toward a technological
 form of society occurs only under special conditions. So
 there is no reason to assume that a long-lasting technological
 regression cannot be brought about.
-They key here is NOT go full anarcho-primitivism, BUT to look at modern automation, modern industrialized metallurgy, refrigerators, computers, phones, UVB light bulbs, LED lights, biofuel production, automotive production, tractor computer software designs for agriculture(which should only be used to SUPPLEMENT permaculture), tugboat building, ship building, plane building, turbing building, and generator head making, and the electrical grid, then make the THEN decentralized multi-stage production tech down to a heavily dispersed small and medium scale levels so the production can be to the people and actually supplement human labor properly like it's supposed to.
 
-This is the only way that these technologies would not compete against nature, be actually sustainable, and counter-regulate against certain silicon valley corporations that push for fairy-tale chasings like "muh downloadable consciousness" or the delusion of immortality or the singularity hypothesis.
+They key here is NOT go full anarcho-primitivism, BUT to look at the modern infrastructures to the most used and most important multi-stage production tech, services, and goods we use today including computers, automation, various machinery, various lights, and the electrical grid, then the production can be to the people and actually supplement human labor properly like it's supposed to, that's a start and once this is back fully to the people, we can actually tackle the development of AI and see how we can contribute to the development of Friendly AI and also levy off the dangers of the greatest and most dangerous gamble of the human race, AGI.
 
-Some aspects of these very ideas or pipedream chasings would be worse than communism or globalized state socialism or global central corporatism
+Some aspects of these very ideas advocated by some of these AI developers and some Singularitarians or pipedream chasings would be worse than Stalinist Socialism or globalized state socialism or global central corporatism.
 
+T3CHN01200
 Assuming Moore's observation will hold, of which there have been times of discrepancy for this observation (2011-2017), Elon Musk is right, it would take at least 30 years to hit the singularity
 (based on how fast it took for a current supercomputer to simulate a heart now compared to realtime, as of 2020). This speed increase is largely going to be due to adding more cores and since it
 is going to be due to adding more cores, we will have to worry about Ahmdahl's law (this time, not an observation). With regards to neural networks, the parallelism would then be a function as
